@@ -1,4 +1,4 @@
-![](img/new_format.png)
+![](img/box_generator.png)
 
 # Getting Started with Create React App
 
